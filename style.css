@@ -39,3 +39,28 @@ p{
     background-repeat: no-repeat;
     background-position: right;
 }
+.experience{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 5px;
+    box-shadow: 10px 10px 40px gray;
+}
+#experience-area{
+    border-left: 7px solid;
+    border-image: linear-gradient(orange, tomato);
+    border-image-slice: 1;
+}
+#baby-area{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+.bottom-second{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.last-part{
+    text-align: center;
+}
