@@ -19,6 +19,9 @@ p{
     font-weight: 700;
     text-decoration: none;
 }
+.button-color:hover{
+    color: red;
+}
 .flexible-container{
     display: flex;
     margin-bottom: 150px;
